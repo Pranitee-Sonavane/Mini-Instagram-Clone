@@ -1,0 +1,25 @@
+# Ignore Gradle and build files
+.gradle/
+build/
+gradle/
+*.jar
+*.war
+*.ear
+
+# Ignore IDE and config files
+.idea/
+*.iml
+*.log
+*.cache
+
+# Ignore local properties
+local.properties
+
+# Ignore generated files
+app/build/
+*.apk
+*.aab
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
